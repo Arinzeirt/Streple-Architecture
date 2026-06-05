@@ -1,32 +1,21 @@
-# Streple-Architecture
-System architecture for a governance-aware, post-quantum-ready digital asset and financial infrastructure platform.
+# Streple System Architecture
 
-# Hi, I'm Arinze Mba
+Architecture repository for Streple, a governance-aware, post-quantum-ready financial infrastructure.
 
-Cybersecurity Researcher | Post-Quantum Cryptography | Financial Infrastructure Security | Systems Architect | Founder @ Streple
+## Download
 
-## Current Focus
+- [Architecture PDF](docs/Streple-System-Architecture-v1.1.pdf)
 
-- Governance-Aware PQC Migration
-- Financial Infrastructure Security
-- Digital Asset Systems
-- Cross-Border Settlement
-- AI-Assisted Trading Systems
+## Architecture Modules
 
-## Research
-
-Currently preparing for doctoral research at Manchester Metropolitan University focused on adaptive and governance-aware post-quantum cryptographic migration for high-throughput financial systems.
-
-## Projects
-
-- Streple System Architecture
-- PQC Financial Infrastructure Simulator
-- Cybersecurity Research Portfolio
-- Secure Digital Asset Infrastructure
-
-## Publication
-
-Practical Considerations for Post-Quantum Cryptographic Migration in Financial Systems
-
-DOI:
-https://doi.org/10.5281/zenodo.20493245
+1. Identity Architecture
+2. Wallet Architecture
+3. Governance Engine
+4. Asset Conversion
+5. Utility Payments
+6. AI-Assisted Trade Pool
+7. Real World Assets
+8. Cross-Border Settlement
+9. PQC Simulator
+10. Infrastructure Deployment
+11. End-to-End Architecture
